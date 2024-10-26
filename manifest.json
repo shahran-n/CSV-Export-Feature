@@ -1,0 +1,22 @@
+{
+  "name": "export-to-csv",
+  "label": "Export",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "download data on screen to a csv file.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "es",
+    "zh-cn"
+  ],
+  
+  "defaultSize": {
+    "width": 360,
+    "height": 80
+  }
+}
