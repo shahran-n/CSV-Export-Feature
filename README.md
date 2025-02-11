@@ -23,11 +23,12 @@
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/map-layer-exporter.git
+   git clone https://github.com/shahran-n/CSV-Export-Feature.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd map-layer-exporter
+   cd src
+   cd runtime
    ```
 3. Install dependencies:
    ```sh
